@@ -12,16 +12,8 @@
 
 ### -- Live Website এ Visit করুন | Click to Open --
 
-<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
+<a href="https://khaledul-belal.github.io/PUC_PROBLEM_SOLVER/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20LIVE%20WEBSITE%20--%20PUC%20HUB%20--%20Click%20Here%20%20%E2%96%BA-f39c12?style=for-the-badge&labelColor=1a0a00&logo=googlechrome&logoColor=f39c12" height="50"/>
-</a>
-
-<br/><br/>
-
-### -- GitHub Source Code দেখুন | View Repository --
-
-<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%BA%20%20GITHUB%20REPOSITORY%20--%20Source%20Code%20--%20Click%20Here%20%20%E2%96%BA-ffffff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" height="50"/>
 </a>
 
 <br/><br/>
@@ -55,7 +47,7 @@
   University  |  Premier University Chittagong
   Project     |  Internet Programming Lab — Semester Project 2024
   Features    |  30+ Services, AI Powered, Mobile Friendly
-  Team        |  Rahul, Alvi, Ador,Bela ,Rudra
+  Team        |  Rahul, Alvi, Ador, Belal,Rudra
 ```
 
 ---
@@ -216,7 +208,7 @@ Modern Web Browser
 
 ```bash
 # Step 1 — Clone করুন
-git clone https://github.com/rahul-3613/Puc-Problem-Sover.git
+git clone https://khaledul-belal.github.io/PUC_PROBLEM_SOLVER/.git
 
 # Step 2 — XAMPP htdocs-এ রাখুন
 # C:\xampp\htdocs\puc_hub\
@@ -316,20 +308,6 @@ CREATE TABLE users (
 <a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20LIVE%20WEBSITE%20--%20rahul--3613.github.io%2FPuc--Problem--Sover%20%20%E2%96%BA-f39c12?style=for-the-badge&labelColor=1a0a00&logo=googlechrome&logoColor=f39c12" height="46"/>
 </a>
-
-<br/><br/>
-
-**--- GitHub Repository -- Source Code দেখুন ---**
-
-<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%BA%20%20GITHUB%20REPO%20--%20github.com%2Frahul--3613%2FPuc--Problem--Sover%20%20%E2%96%BA-ffffff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" height="46"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/stars/rahul-3613/Puc-Problem-Sover?style=social" />
-&nbsp;
-<img src="https://img.shields.io/github/forks/rahul-3613/Puc-Problem-Sover?style=social" />
 
 <br/><br/>
 
