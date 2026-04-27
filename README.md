@@ -12,7 +12,7 @@
 
 ### -- Live Website এ Visit করুন | Click to Open --
 
-<a href="https://rahul-3613.github.io/Puc-Problem-Sover/" target="_blank">
+<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20LIVE%20WEBSITE%20--%20PUC%20HUB%20--%20Click%20Here%20%20%E2%96%BA-f39c12?style=for-the-badge&labelColor=1a0a00&logo=googlechrome&logoColor=f39c12" height="50"/>
 </a>
 
@@ -20,7 +20,7 @@
 
 ### -- GitHub Source Code দেখুন | View Repository --
 
-<a href="https://github.com/rahul-3613/Puc-Problem-Sover" target="_blank">
+<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20GITHUB%20REPOSITORY%20--%20Source%20Code%20--%20Click%20Here%20%20%E2%96%BA-ffffff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" height="50"/>
 </a>
 
@@ -287,6 +287,7 @@ CREATE TABLE users (
   Rahul   --  Lead Dev, auth.js, routes.js, tracker.js, app.js, PHP, SQL
   Alvi    --  examroutine.html, classroutine.html, holiday.html
   Ador    --  faculty.html, UI Components and Design
+  Belal   --  normal services.html,css.
   Rudra   --  profile.js, Image Compression and Upload System
 ```
 
@@ -312,7 +313,7 @@ CREATE TABLE users (
 
 **--- Live Website এ যেতে এখানে Click করুন ---**
 
-<a href="https://rahul-3613.github.io/Puc-Problem-Sover/" target="_blank">
+<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20LIVE%20WEBSITE%20--%20rahul--3613.github.io%2FPuc--Problem--Sover%20%20%E2%96%BA-f39c12?style=for-the-badge&labelColor=1a0a00&logo=googlechrome&logoColor=f39c12" height="46"/>
 </a>
 
@@ -334,6 +335,6 @@ CREATE TABLE users (
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Made%20with%20love%20by%20Team%20PUC%20HUB&fontSize=18&fontColor=f39c12&animation=fadeIn&fontAlignY=72" width="100%"/>
 
-*Built for PUC Students — Internet Programming Lab 2024*
+*Built for PUC Students — Internet Programming Lab 2025*
 
 </div>
