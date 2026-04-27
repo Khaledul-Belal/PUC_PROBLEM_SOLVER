@@ -55,7 +55,7 @@
   University  |  Premier University Chittagong
   Project     |  Internet Programming Lab — Semester Project 2024
   Features    |  30+ Services, AI Powered, Mobile Friendly
-  Team        |  Rahul, Alvi, Ador, Rudra
+  Team        |  Rahul, Alvi, Ador,Bela ,Rudra
 ```
 
 ---
@@ -321,7 +321,7 @@ CREATE TABLE users (
 
 **--- GitHub Repository -- Source Code দেখুন ---**
 
-<a href="https://github.com/rahul-3613/Puc-Problem-Sover" target="_blank">
+<a href="https://github.com/Khaledul-Belal/PUC_PROBLEM_SOLVER/edit/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%BA%20%20GITHUB%20REPO%20--%20github.com%2Frahul--3613%2FPuc--Problem--Sover%20%20%E2%96%BA-ffffff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" height="46"/>
 </a>
 
